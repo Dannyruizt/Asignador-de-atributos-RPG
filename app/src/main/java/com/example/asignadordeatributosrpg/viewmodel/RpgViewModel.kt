@@ -1,6 +1,7 @@
 package com.example.asignadordeatributosrpg.viewmodel
 
 import androidx.lifecycle.ViewModel
+import com.example.asignadordeatributosrpg.estado.RpgUiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
