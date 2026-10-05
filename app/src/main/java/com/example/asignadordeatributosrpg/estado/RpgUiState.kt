@@ -1,7 +1,7 @@
 package com.example.asignadordeatributosrpg.estado
 
 data class RpgUiState(
-    val puntosDisponibles: Int = 100,
+    val puntosDisponibles: Int = 200,
     val fuerza: Int = 0,
     val magia: Int = 0,
     val velocidad: Int = 0,
